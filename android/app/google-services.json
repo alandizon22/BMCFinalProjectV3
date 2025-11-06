@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284968278149",
+    "project_id": "todolist-4b28a",
+    "storage_bucket": "todolist-4b28a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284968278149:android:a6ac0e445f93c1c45ef1ec",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9m9V_dvgvxjrrHKXKkhwz8ohZ-uzV78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284968278149:android:15c56ed1012b4a725ef1ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9m9V_dvgvxjrrHKXKkhwz8ohZ-uzV78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
